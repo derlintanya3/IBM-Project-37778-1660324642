@@ -2,8 +2,6 @@
 
 Hazardous Area Monitoring System
 
-Team Lead: Harshitha SS
+Team Lead: 1. Harshitha SS
 
-Members:  Ryan Rynjah
-          Josalin AJ
-          Mary Derlin Tanya X
+Members:  2. Ryan Rynjah  3. Josalin AJ  4. Mary Derlin Tanya X
