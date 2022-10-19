@@ -1,3 +1,3 @@
-# Assignment 2
+# Assignment 1
 
-Alert on extreme temperature/humidity.
+Arduino Uno Home Automation System.
