@@ -1,0 +1,1 @@
+A Cloudant DB is created for the project.
